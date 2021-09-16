@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/64667212/133459770-9f4b4256-214b-4562-99c7-b44d6b7b44d7.png)
 
-A repository showing all the codes needed (as I created) for the Course!
+A repository showing all the code solution for graded assessments needed (as I created) for the Course!
 
 
 
