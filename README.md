@@ -1,12 +1,21 @@
+Introduction to Git and GitHub by Google
 
-![image](https://user-images.githubusercontent.com/64667212/133459770-9f4b4256-214b-4562-99c7-b44d6b7b44d7.png)
+![image](https://user-images.githubusercontent.com/64667212/141744791-d079bf2b-f3cd-4e45-8c86-18d36ebe20a0.png)
 
-A repository showing all the code solution for graded assessments needed (as I created) for the Course!
+About this Course
+
+In this course, you’ll learn how to keep track of the different versions of your code and configuration files using a popular version control system (VCS) called Git. We'll also go through how to setup an account with a service called GitHub so that you can create your very own remote repositories to store your code and configuration. 
+
+![image](https://user-images.githubusercontent.com/64667212/141744961-62520c90-936b-41a2-aa82-4b5c51cef2af.png)
+
+Throughout this course, you'll learn about Git's core functionality so you can understand how and why it’s used in organizations. We’ll look into both basic and more advanced features, like branches and merging. We'll demonstrate how having a working knowledge of a VCS like Git can be a lifesaver in emergency situations or when debugging. And then we'll explore how to use a VCS to work with others through remote repositories, like the ones provided by GitHub.
+
+By the end of this course, you'll be able to store your code's history in Git and collaborate with others in GitHub, where you’ll also start creating your own portfolio! 
+
+In order to follow along and complete the assessments, you’ll need a computer where you can install Git or ask your administrator to install it for you.
 
 
-
-
-#Also, here is a Git Cheat Sheet 
+# Also, here is a Git Cheat Sheet 
 ===========================================================
 
 > I hope this helps! 
