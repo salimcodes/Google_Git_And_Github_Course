@@ -97,8 +97,20 @@ In order to follow along and complete the assessments, you’ll need a computer 
 | $ git branch -r | Lists remote branches; can be combined with other branch arguments to manage remote branches |
 	
 	 	
-	
-	
+
+## Step-by-Step procedure to download code
+
+* Navigate to the `<>Code` tab.
+
+* Click on the `Code` button on the right. A dropdown should appear.
+
+* In the `Clone` menu, under the `HTTPS` tab, click on `Download ZIP`
+
+This simplest process is to Download ZIP.
+
+## Creator 
+
+* [Salim Ọlánrewájú Oyinlọlá](https://mobile.twitter.com/SalimOpines)
 	
 	
 	
